@@ -1,0 +1,85 @@
+INSTALACIÓN CDN.
+INSTALACIÓN ARCHIVOS.
+-------------------------
+class
+Id
+-----------------------------
+wappalyzer (SABER COMO SE DESARROLLO EL SITIO WEB)
+ZURB foundation (https://get.foundation/)
+bootstrap (https://startbootstrap.com/previews/freelancer)
+fontawesome (https://fontawesome.com/)
+flexbox (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+---------------------------------
+Button -> class
+Tablas -> class
+section -> color.alto.ancho
+<a>google</a>
+img class -> pendiente
+-----------------------------
+efecto hoover para el mouse 
+---------
+img { filter: grayscale: %; }
+------------------------------------
+tamaños BOTONES
+
+LG -> XTRA LARGE (MAC)
+MD -> MEDIUM (DESKTOP, LAPTOP)
+SM -> SMALL (TABLET)
+-------------------------------------
+<section>
+	<p>
+	    para seccion vertical
+	</p>
+</section>
+<section>
+	<p>
+	    para seccion vertical
+	</p>
+</section>
+<section>
+	<p>
+	    para seccion vertical
+	</p>
+</section>
+-----------------------------------------
+<a href="#">ir a contacto</a>
+
+# id se regirige al apartado del banner web.
+
+------------------------------------------
+inspeccionar 
+network
+img
+------------------------------------------
+<div class= "container">
+	esta clase genera a los lados un espaciado para que se centre 
+	lo interno
+</div>
+------------------------------------------
+Columnas siempre deben sumar 12 
+
+arrow -> 3 4 5
+arrow -> 8 4
+arrow -> 2 8 2
+arrow -> 4 4 4
+
+class = row (fila)
+class = col-md-4"
+-------------------------------------------
+desplazar columna a la derecha 
+class ="col-md-4 offset-md-6"
+-------------------------------------------
+IMAGENES
+
+font awesome 
+como instalar una familia de fuente 
+fuente tipo icono 
+---------------------------------------------------
+ACTIVIDAD:
+
+Recrear interface bootstrap 
+---------------------------------------------------
+
+
+
+

@@ -1,0 +1,37 @@
+10 Febrero 2022
+
+metodos de entradas de datos -> html (h1-h6), 
+href, css, button, font-family, border radius.
+---------------------------------------------
+formulario --> login
+---------------------------------------------
+actividad --> formulario --> 5 campos 
+---------------------------------------------
+git -> github pages
+---------------------------------------------
+Nombre
+Apellidos
+Correo
+Numero de documento
+Cargar archivos / img (<form name="subida-imagenes" type="POST" enctype="multipart/formdata" >
+<input type="file" name="imagen" />
+</form>)
+Elegir ciudad (min 10)
+Genero
+telefono
+botton registro
+----------------------------------------------
+TIPOS DE INPUT
+	
+input type= "text" (alfanumerico)
+input type= "number" (numerico)
+input type= "color" (paleta de colores)
+input type= "radio" name="" (selección)
+maximo 5 opciones y una unica respuesta
+input type= "checkbox" (selección multiple)
+maximo 15 opciones y multiples respuestas
+input type= "password" (Contraseñas)
+required = campo obligatorio y se pone al final antes de cerrar el ">"
+<select>
+	<option value"">Bogota</option>
+</select>

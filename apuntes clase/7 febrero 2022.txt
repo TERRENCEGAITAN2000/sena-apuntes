@@ -1,0 +1,13 @@
+7 Febrero 2022
+-----------------------
+Head -> CSS, Scripts, Fuentes, Fav icon 
+Body -> Texto, Imagenes, links
+
+
+Crear tabla -> <table></table>
+<tr></tr> --> Fila ---
+<td></td> --> Columna !!
+
+
+
+

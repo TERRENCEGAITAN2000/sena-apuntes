@@ -1,0 +1,26 @@
+18 Febrero 
+----------------------
+input , navbar
+12 -> tam columna 
+----------------------
+javascript -> scrolltop -> jquery
+
+col-md-offset-4
+offset-md-4 
+
+(desplazamiento)
+
+offset-md-(cant columna que se necesita desplazar)
+
+offser-md-3
+
+----------------------
+<label>texto</label>
+	<input class="form-control">
+
+-----------------------
+fixed top 
+
+barra de navegacion con atributos de bootstrap
+
+		
